@@ -1,0 +1,11 @@
+Origin: fish-horse
+Label: fish-horse
+Suite: trixie
+Codename: trixie
+Architectures: arm64
+Components: main
+Description: Custom Raspberry Pi OS packages
+Date: Fri, 27 Nov 2026 03:40:17 UTC
+SHA256:
+ 6e1fc5042c9a5b8b7972cd56f80b5f08172b37972d240455ab0bd476a7dfde5c 537 main/binary-arm64/Packages
+ 6e6ec830df4bab61b883bb95956c2b8c73fad74dda5709fa3f4f82cbe21d79ce 401 main/binary-arm64/Packages.gz
