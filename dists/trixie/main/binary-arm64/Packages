@@ -12,3 +12,16 @@ Size: 4126
 MD5sum: 26acbc4932113ccb563bfb8ca9dc2dd3
 SHA256: 7e0096b34f7fa5ce1d8d5295bafbcbf0ba74b04974665e57c5b2f89c2bba6db8
 
+Package: custom-rpi-branding
+Version: 1.0.1
+Architecture: all
+Maintainer: fish-horse <fish-horse@users.noreply.github.com>
+Section: misc
+Priority: optional
+Depends: plymouth-theme-pix | plymouth, bash
+Description: Custom look for Raspberry Pi OS (visual branding only)
+ Splash, wallpaper, GTK colors, shell prompt, and login greeting.
+Filename: pool/main/c/custom-rpi-branding/custom-rpi-branding_1.0.1_all.deb
+Size: 4166
+MD5sum: 56a6bcb67f24ca385aed0164e7930dde
+SHA256: 9ffb1487ef48c8ea4696135b54d139d469a6866dc54e8ed3cd2c27d7cbce366e

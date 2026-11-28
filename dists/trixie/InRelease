@@ -5,17 +5,19 @@ Origin: fish-horse
 Label: fish-horse
 Suite: trixie
 Codename: trixie
+Date: Sat, 28 Nov 2026 01:51:53 GMT
 Architectures: arm64
 Components: main
-Description: Custom Raspberry Pi OS packages
-Date: Fri, 27 Nov 2026 03:40:17 UTC
+MD5Sum:
+ b010e3ec88301c413f4ff56c783dfa1e 1073 main/binary-arm64/Packages
+ 39773894a4eada229400e4b3f142f6c6 491 main/binary-arm64/Packages.gz
 SHA256:
- 6e1fc5042c9a5b8b7972cd56f80b5f08172b37972d240455ab0bd476a7dfde5c 537 main/binary-arm64/Packages
- 6e6ec830df4bab61b883bb95956c2b8c73fad74dda5709fa3f4f82cbe21d79ce 401 main/binary-arm64/Packages.gz
+ c99167b4ad77a8e03f24d1b8c4ce3889586c0ed0286a5aa5f3ffa1e5b540151c 1073 main/binary-arm64/Packages
+ 0eb429bfda35a34952a571a22dd85dffaa9313ee18d635b5f06ff0c4c06d037f 491 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQGh4nIX1wIihxTKkcW4s9llNGEtQUCawj7oQAKCRAW4s9llNGE
-tZINAQCe/DrRdYlvouWPonC7O+ZbvFl3/GCHMvmyj1Y4aJiXFQEApk2YlZfBmFAG
-G2gWW7PBUHNKFO3/dA4bxyrYF+33pgM=
-=wIU7
+iHUEARYKAB0WIQQGh4nIX1wIihxTKkcW4s9llNGEtQUCawozuQAKCRAW4s9llNGE
+tajIAP4/+5EEEnpCL5SsPADkpn8aqvmsp8Y6aXLKdDVNXzXT0gEAs7xU+VwXlt+c
+hbgL7xTmidxZfFj8zFqCiolQtbagHwk=
+=Hx6+
 -----END PGP SIGNATURE-----
